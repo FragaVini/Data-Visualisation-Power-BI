@@ -6,7 +6,7 @@ In this section I will list the data visualisation projects, describing which to
 
 ### Investment portfolio
 
-**Code:** **Code:** [`Investment Portfolio.pbix`](https://github.com/FragaVini/Data-Visualisation-Power-BI/blob/main/Stock.pbix)
+**Code:** **Code:** [`Investment Portfolio.pbix`](https://github.com/FragaVini/Data-Visualisation-Power-BI/blob/main/Investment%20Portfolio/Stock.pbix)
 
 **Goal:** Present the historical data of an investment portfolio to analyse its performance.
 
